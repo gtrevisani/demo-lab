@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=garieletestdevstorage;AccountKey=E47tT/7QWgZ4dwN90nl9GUvrxJEDXWRVqE4QHJ4HGqh01urHIBF9loJy2ADq2MSLVjVOFX+g2N3ezdtAtp0Xlw==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "teststgab_RootManageSharedAccessKey_EVENTHUB": "Endpoint=sb://teststgab.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=eI9G6QozLoIiMK8I/f4rIZTk4+zFXO9Vqt9eqtipcdo=;EntityPath=table"
+  }
+}
